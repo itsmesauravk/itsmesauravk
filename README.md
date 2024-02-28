@@ -8,8 +8,9 @@
  - 🌱 Learning should not be stopped .
 
 - 📫 How to reach me **saurabk60@gmail.com**
+- 📫 How to reach me **sauravkarki10.12@gmail.com**
 
-- ⚡ Artificial Intelligence
+- ⚡ **Artificial Intelligence**
  </div>
 
 <h3 align="left">Connect with me:</h3>
