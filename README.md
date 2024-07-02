@@ -83,8 +83,12 @@
 </p>
 
 <h3 align="left">Dynamic DevCard:</h3>
+<h3 align="left">Wakatime Stats:</h3>
 <p align="center">
-  <a href="https://app.daily.dev/sauravkarki">
-    <img src="https://api.daily.dev/devcards/8828c2a35f67403a92df293484002a18.png?r=xy4" width="400" alt="Saurav Karki's Dev Card"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmesauravk&layout=compact&theme=monokai" alt="Wakatime Stats"/>
 </p>
+<h3 align="left">GitHub Metrics:</h3>
+<p align="center">
+  <img src="https://github.com/itsmesauravk/github-metrics/blob/master/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
