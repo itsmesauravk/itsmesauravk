@@ -1,26 +1,35 @@
 <h1 align="center">SAURAV KARKI</h1>
 <h3 align="center">AI (ML/DL) | Node.js (Express)</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmesauravk&label=Profile%20views&color=0e75b6&style=flat" alt="itsmesauravk" />
+  <img src="https://img.shields.io/github/followers/itsmesauravk?label=Followers" alt="followers" />
+</p>
+
 <div align="left">
-  - 🌱 I believe learning should never stop.
-  - 📫 Reach me at: **saurabk60@gmail.com**
-  - 📫 Reach me at: **sauravkarki10.12@gmail.com**
-  - ⚡ Enthusiast in **Artificial Intelligence**
+  <h3>🌱 About Me</h3>
+  <p>I believe learning should never stop. My passion for technology and artificial intelligence drives me to continuously seek new knowledge and develop innovative solutions.</p>
+  <p>📫 Reach me at:</p>
+  <ul>
+    <li><a href="mailto:saurabk60@gmail.com">saurabk60@gmail.com</a></li>
+    <li><a href="mailto:sauravkarki10.12@gmail.com">sauravkarki10.12@gmail.com</a></li>
+  </ul>
+  <p>⚡ Enthusiast in Artificial Intelligence</p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@saurav0126" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saurav0126" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/twitter/follow/saurav0126?label=Twitter&style=social" alt="@saurav0126" />
   </a>
   <a href="https://linkedin.com/in/saurav-karki" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav karki" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="saurav karki" />
   </a>
   <a href="https://fb.com/saurav.karki" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurav karki" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Facebook-Follow-blue" alt="saurav karki" />
   </a>
   <a href="https://instagram.com/saurav.karki" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurav karki" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-Follow-E4405F" alt="saurav karki" />
   </a>
 </p>
 
@@ -62,3 +71,20 @@
   <li>Exploring natural language processing and computer vision</li>
   <li>Interested in AI ethics and explainable AI</li>
 </ul>
+
+<h3 align="left">GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmesauravk&theme=onedark" alt="trophies" />
+</p>
+
+<h3 align="left">GitHub Profile Summary:</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmesauravk&theme=monokai" alt="profile-summary" />
+</p>
+
+<h3 align="left">Dynamic DevCard:</h3>
+<p align="center">
+  <a href="https://app.daily.dev/sauravkarki">
+    <img src="https://api.daily.dev/devcards/8828c2a35f67403a92df293484002a18.png?r=xy4" width="400" alt="Saurav Karki's Dev Card"/>
+  </a>
+</p>
