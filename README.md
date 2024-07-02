@@ -82,7 +82,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmesauravk&theme=monokai" alt="profile-summary" />
 </p>
 
-<h3 align="left">Dynamic Avatar:</h3>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRidzQwYXZxN3dqdHVld2FhamNobHhiNDI1Nmk4b2UzOWY1cTdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="400" alt="Robot Animation"/>
 </p>
