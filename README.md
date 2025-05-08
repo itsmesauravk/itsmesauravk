@@ -1,5 +1,5 @@
 <h1 align="center">Saurav Karki</h1>
-<h3 align="center">🧠 AI Explorer | ⚙️ Full-Stack Developer | 💡 Life-long Learner</h3>
+<h3 align="center">🧠 AI Explorer | ⚙️ Web Developer | 💡 Life-long Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmesauravk&label=Profile%20views&color=0e75b6&style=flat" alt="itsmesauravk" />
@@ -11,7 +11,7 @@
 ### 🌟 About Me
 
 - 🤖 **AI Enthusiast** — Currently training my brain and my models—one epoch at a time.  
-- 🧑‍💻 **Web Dev Ready** — Backend with Express.js, frontend with React, and everything in between.  
+- 🧑‍💻 **Web Dev Ready** — Backend with Express.js, frontend with NextJS, and everything in between.  
 - 🎯 Passionate about building smart solutions that make life easier.  
 - ☕ Fun fact: I debug with coffee and deploy with hope.
 
@@ -37,7 +37,7 @@
 🧪 AI / ML / Deep Learning
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/64px-Jupyter_logo.svg.png" width="40" title="Jupyter"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Pandas_logo.svg" width="40" title="Pandas"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" title="NumPy"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Matplotlib_logo.svg/640px-Matplotlib_logo.svg.png" width="40" title="Matplotlib"/> <img src="https://avatars.githubusercontent.com/u/1885080?s=200&v=4" width="40" title="OpenCV"/> </p>
 🧠 LLMs & LangChain Stack
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" width="40" title="FastAPI"/> <img src="https://seeklogo.com/images/L/langchain-logo-839ED3DBAD-seeklogo.com.png" width="40" title="LangChain"/> <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" title="OpenAI APIs"/> </p>
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/> <img src="https://seeklogo.com/images/L/langchain-logo-839ED3DBAD-seeklogo.com.png" width="40" title="LangChain"/> <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" title="OpenAI APIs"/> </p>
 🗃️ Databases
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/> </p>
 🧑‍💻 Web Dev Stack
